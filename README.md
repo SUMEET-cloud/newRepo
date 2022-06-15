@@ -1,3 +1,3 @@
 # newRepo
 This is a new repo
-Modifing repo from the local branch
+Modifing repo from the local git
